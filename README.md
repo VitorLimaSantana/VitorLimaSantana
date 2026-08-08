@@ -54,10 +54,6 @@ Tenho interesse constante em **Engenharia de Software, Desenvolvimento Full Stac
 Além da atuação como desenvolvedor, também trabalho com **educação e ensino de tecnologia**, compartilhando conhecimentos relacionados à programação, desenvolvimento de software, bancos de dados e boas práticas de Engenharia de Software.
 Busco constantemente aprimorar meus conhecimentos, explorar novas tecnologias e desenvolver soluções que unam **qualidade de código, desempenho, segurança e boas práticas de desenvolvimento**.
 
-### 🚀 Sobre mim
-
-Tenho interesse constante em **Engenharia de Software, Desenvolvimento Full Stack, Cloud Computing e novas tecnologias**. Além da atuação como desenvolvedor, também trabalho com **educação e ensino de tecnologia**, compartilhando conhecimentos relacionados à programação e desenvolvimento de software.
-
 ## Minhas Skills 🧑‍💻
 
 <div style="display: inline_block" align="center"><br>
