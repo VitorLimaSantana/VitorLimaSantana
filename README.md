@@ -54,12 +54,6 @@ Tenho interesse constante em **Engenharia de Software, Desenvolvimento Full Stac
 
 ## Minhas Skills 🧑‍💻
 
-<!-- Aqui você pode adicionar os ícones/badges das suas tecnologias -->
-
-
-  ## Minhas skills  🧑‍💻👨‍💻 
- 
-
 <div style="display: inline_block" align="center"><br>
     <img align="center" alt="Vitor-Js" height="70" width="70"
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
