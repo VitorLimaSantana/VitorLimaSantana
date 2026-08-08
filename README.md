@@ -13,9 +13,9 @@ Atuo também como **Professor de Tecnologia**, compartilhando conhecimentos em p
 Tenho interesse em **Engenharia de Software, Arquitetura de Software, Cloud Computing e Inteligência Artificial**.
 
 ## 🛠️ Minhas Skills
-
+<!-- 
 ### Linguagens
-
+-->
 <div align="center">
 
 <img height="50" title="TypeScript" alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
@@ -25,26 +25,26 @@ Tenho interesse em **Engenharia de Software, Arquitetura de Software, Cloud Comp
 <img height="50" title="Java" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 <img height="50" title="C#" alt="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
 <img height="50" title="Dart" alt="Dart" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" />
-
+<!-- 
 </div>
 
 ### Front-End
 
 <div align="center">
-
+-->
 <img height="50" title="Angular" alt="Angular" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
 <img height="50" title="React" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 <img height="50" title="Vue.js" alt="Vue.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
 <img height="50" title="Next.js" alt="Next.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
 <img height="50" title="Tailwind CSS" alt="Tailwind CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
 <img height="50" title="Bootstrap" alt="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
-
+<!-- 
 </div>
 
 ### Back-End
 
 <div align="center">
-
+-->
 <img height="50" title="Node.js" alt="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
 <img height="50" title="Express" alt="Express" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
 <img height="50" title="NestJS" alt="NestJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
@@ -55,23 +55,23 @@ Tenho interesse em **Engenharia de Software, Arquitetura de Software, Cloud Comp
 <img height="50" title="Django" alt="Django" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
 <img height="50" title="FastAPI" alt="FastAPI" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" />
 <img height="50" title="Flask" alt="Flask" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" />
-
+<!-- 
 </div>
 
 ### Mobile
 
 <div align="center">
-
+-->
 <img height="50" title="Flutter" alt="Flutter" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
 <img height="50" title="React Native" alt="React Native" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 <img height="50" title="Android" alt="Android" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" />
-
+<!-- 
 </div>
 
 ### Bancos de Dados & Dados
 
 <div align="center">
-
+-->
 <img height="50" title="PostgreSQL" alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
 <img height="50" title="MySQL" alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 <img height="50" title="MariaDB" alt="MariaDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" />
@@ -79,38 +79,40 @@ Tenho interesse em **Engenharia de Software, Arquitetura de Software, Cloud Comp
 <img height="50" title="MongoDB" alt="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
 <img height="50" title="Redis" alt="Redis" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" />
 <img height="50" title="Firebase" alt="Firebase" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" />
-
+<!-- 
 </div>
 
 ### Cloud & DevOps
 
 <div align="center">
-
+-->
 <img height="50" title="AWS" alt="AWS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
 <img height="50" title="Microsoft Azure" alt="Azure" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
 <img height="50" title="Google Cloud" alt="Google Cloud" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" />
 <img height="50" title="Docker" alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
 <img height="50" title="GitHub Actions" alt="GitHub Actions" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" />
-
+<!-- 
 </div>
 
 ### Versionamento & Repositórios
 
 <div align="center">
-
+-->
 <img height="50" title="Git" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img height="50" title="GitHub" alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 <img height="50" title="GitLab" alt="GitLab" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" />
 <img height="50" title="Gitea" alt="Gitea" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitea/gitea-original.svg" />
-
+<!-- 
 </div>
 
 ### Ferramentas
 
 <div align="center">
-
+-->
 <img height="50" title="Selenium" alt="Selenium" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" />
 <img height="50" title="Postman" alt="Postman" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
+<img height="50" title="Insomnia" alt="Insomnia" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" />
+          
 <img height="50" title="DBeaver" alt="DBeaver" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" />
 <img height="50" title="Visual Studio Code" alt="VS Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 <img height="50" title="Visual Studio" alt="Visual Studio" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
