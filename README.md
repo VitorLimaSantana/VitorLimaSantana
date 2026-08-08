@@ -121,6 +121,15 @@ Tenho interesse em **Engenharia de Software, Arquitetura de Software, Cloud Comp
 <img height="50" title="PhpStorm" alt="PhpStorm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/phpstorm/phpstorm-original.svg" />
 <img height="50" title="Android Studio" alt="Android Studio" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />
 
+<img height="50" title="Windows" alt="Windows" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />
+<img height="50" title="Fedora" alt="Fedora" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fedora/fedora-original.svg" />
+<img height="50" title="Ubuntu" alt="Ubuntu" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" />
+<img height="50" title="Linux Mint" alt="Linux Mint" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linuxmint/linuxmint-original.svg" />
+<img height="50" title="Kali Linux" alt="Kali Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original.svg" />
+<img height="50" title="Red Hat" alt="Red Hat" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redhat/redhat-original.svg" />
+<img height="50" title="Debian" alt="Debian" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" />
+<img height="50" title="Linux" alt="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+
 </div>
 
 <div align="center">
