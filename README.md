@@ -3,10 +3,9 @@
 ## Desenvolvedor Full Stack | Professor de Tecnologia 👨‍💻
 
 Sou **Desenvolvedor Full Stack**, atuando no desenvolvimento de soluções **Front-End, Back-End e Mobile**, integração de **APIs, bancos de dados e serviços em nuvem**.
-
 Tenho experiência com diferentes linguagens, frameworks e ferramentas, aplicando boas práticas de **Engenharia de Software, arquitetura, segurança, testes e versionamento**.
 
-### 💻 Tecnologias
+### Tecnologias
 
 * **Linguagens:** TypeScript, JavaScript, Python, PHP, Java, C#, Dart e SQL
 * **Front-End:** Angular, React, Vue.js, Next.js, Tailwind CSS e Bootstrap
@@ -16,13 +15,12 @@ Tenho experiência com diferentes linguagens, frameworks e ferramentas, aplicand
 * **Cloud & DevOps:** AWS, Azure, GCP, Docker, CI/CD e GitHub Actions
 * **Ferramentas:** Git, GitHub, GitLab, Gitea, Selenium, Postman, DBeaver, VS Code, Visual Studio, IntelliJ IDEA, PyCharm, PhpStorm e Android Studio
 
-### 🚀 Sobre mim
+### Sobre mim
 
 Atuo também como **Professor de Tecnologia**, compartilhando conhecimentos em programação, desenvolvimento de software e bancos de dados.
-
 Tenho interesse em **Engenharia de Software, Arquitetura de Software, Cloud Computing e Inteligência Artificial**.
 
-## 🛠️ Minhas Skills
+## Minhas Skills
 
 <div align="center" style="background-color: #ffffff; padding: 20px;">
 
