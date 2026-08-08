@@ -26,7 +26,7 @@ Sou **Desenvolvedor Full Stack**. Atualmente, trabalho com desenvolvimento em v�
 Sou **Desenvolvedor Full Stack**, com experiência no desenvolvimento de aplicações **Front-End, Back-End e Mobile**, além de integração com **bancos de dados, APIs e serviços em nuvem**.
 Atuo com diferentes linguagens, frameworks e tecnologias, buscando desenvolver soluções **eficientes, escaláveis, seguras e bem estruturadas**, aplicando boas práticas de **Engenharia de Software, arquitetura de sistemas, versionamento e qualidade de código**.
 
-### 💻 Tecnologias e Conhecimentos
+### Tecnologias e Conhecimentos
 
 * **Linguagens:** TypeScript, JavaScript, Python, PHP, Dart, Java, C# e SQL
 * **Front-End:** Angular, React.js, Vue.js, Next.js, HTML5, CSS3, Tailwind CSS e Bootstrap
@@ -48,14 +48,13 @@ Atuo com diferentes linguagens, frameworks e tecnologias, buscando desenvolver s
 * **Metodologias e Gestão:** Scrum, Kanban, metodologias ágeis, documentação técnica e versionamento de software
 * **Produtividade e Análise:** Pacote Office Avançado, Excel Avançado e Power BI
 
-### 🚀 Sobre mim
+### Sobre mim
 
 Tenho interesse constante em **Engenharia de Software, Desenvolvimento Full Stack, Cloud Computing, Arquitetura de Software, Inteligência Artificial e novas tecnologias**.
 Além da atuação como desenvolvedor, também trabalho com **educação e ensino de tecnologia**, compartilhando conhecimentos relacionados à programação, desenvolvimento de software, bancos de dados e boas práticas de Engenharia de Software.
 Busco constantemente aprimorar meus conhecimentos, explorar novas tecnologias e desenvolver soluções que unam **qualidade de código, desempenho, segurança e boas práticas de desenvolvimento**.
 
-## Minhas Skills 🧑‍💻
-
+## Minhas Skills
 <div style="display: inline_block" align="center"><br>
     <img align="center" alt="Vitor-Js" height="70" width="70"
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
