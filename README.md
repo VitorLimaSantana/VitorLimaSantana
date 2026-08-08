@@ -123,6 +123,122 @@ Tenho interesse em **Engenharia de Software, Arquitetura de Software, Cloud Comp
 <img height="50" title="PyCharm" alt="PyCharm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" />
 <img height="50" title="PhpStorm" alt="PhpStorm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/phpstorm/phpstorm-original.svg" />
 <img height="50" title="Android Studio" alt="Android Studio" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />
+<!--
+### Gerenciadores de Pacotes & Build
+
+<div align="center">
+-->
+<img height="50" title="NPM" alt="NPM" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" />
+<img height="50" title="Yarn" alt="Yarn" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yarn/yarn-original.svg" />
+<img height="50" title="pnpm" alt="pnpm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pnpm/pnpm-original.svg" />
+<img height="50" title="Composer" alt="Composer" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/composer/composer-original.svg" />
+<img height="50" title="Maven" alt="Maven" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" />
+<img height="50" title="Gradle" alt="Gradle"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original.svg" />
+<img height="50" title="NuGet" alt="NuGet"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuget/nuget-original.svg" />
+<img height="50" title="Cargo" alt="Cargo"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" />
+
+<!--
+
+### Desenvolvimento, Build & Testes
+
+<div align="center">
+
+ BUILD / FRONT-END -->
+
+<img height="50" title="Vite" alt="Vite"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" />
+
+<img height="50" title="Webpack" alt="Webpack"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webpack/webpack-original.svg" />
+
+<img height="50" title="Babel" alt="Babel"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/babel/babel-original.svg" />
+
+<img height="50" title="ESLint" alt="ESLint"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eslint/eslint-original.svg" />
+
+
+<!-- JAVASCRIPT / TYPESCRIPT -->
+
+<img height="50" title="Jest" alt="Jest"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" />
+
+<img height="50" title="Vitest" alt="Vitest"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" />
+
+<img height="50" title="Mocha" alt="Mocha"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mocha/mocha-original.svg" />
+
+<img height="50" title="Cypress" alt="Cypress"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" />
+
+<img height="50" title="Playwright" alt="Playwright"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" />
+
+
+<!-- AUTOMAÇÃO -->
+
+<img height="50" title="Selenium" alt="Selenium"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" />
+
+
+<!-- PYTHON -->
+
+<img height="50" title="Pytest" alt="Pytest"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg" />
+
+
+<!-- JAVA / KOTLIN -->
+
+<img height="50" title="JUnit" alt="JUnit"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" />
+
+<img height="50" title="Maven" alt="Maven"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" />
+
+<img height="50" title="Gradle" alt="Gradle"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original.svg" />
+
+
+<!-- PHP -->
+
+<img height="50" title="Composer" alt="Composer"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/composer/composer-original.svg" />
+
+
+<!-- NODE / PACOTES -->
+
+<img height="50" title="NPM" alt="NPM"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" />
+
+<img height="50" title="Yarn" alt="Yarn"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yarn/yarn-original.svg" />
+
+<img height="50" title="pnpm" alt="pnpm"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pnpm/pnpm-original.svg" />
+
+
+<!-- API -->
+
+<img height="50" title="Postman" alt="Postman"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
+
+<img height="50" title="Swagger" alt="Swagger"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" />
+
+
+<!-- CI/CD -->
+
+<img height="50" title="GitHub Actions" alt="GitHub Actions"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" />
+
+<img height="50" title="Jenkins" alt="Jenkins"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" />
+
+
 
 <img height="50" title="Windows" alt="Windows" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />
 <img height="50" title="Fedora" alt="Fedora" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fedora/fedora-original.svg" />
