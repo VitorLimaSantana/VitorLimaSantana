@@ -25,6 +25,8 @@ Tenho interesse em **Engenharia de Software, Arquitetura de Software, Cloud Comp
 <img height="50" title="Java" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 <img height="50" title="C#" alt="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
 <img height="50" title="Dart" alt="Dart" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" />
+<img height="50" title="Rust" alt="Rust" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" />
+          
 <!-- 
 </div>
 
