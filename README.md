@@ -24,7 +24,7 @@ Tenho interesse em **Engenharia de Software, Arquitetura de Software, Cloud Comp
 
 ## 🛠️ Minhas Skills
 
-<div align="center">
+<div align="center" style="background-color: #ffffff; padding: 20px;">
 
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
