@@ -193,53 +193,17 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-ori
 
 <!-- JAVA / KOTLIN -->
 
-<img height="50" title="JUnit" alt="JUnit"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" />
-
-<img height="50" title="Maven" alt="Maven"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" />
-
-<img height="50" title="Gradle" alt="Gradle"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original.svg" />
-
-
-<!-- PHP -->
-
-<img height="50" title="Composer" alt="Composer"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/composer/composer-original.svg" />
-
-
-<!-- NODE / PACOTES -->
-
-<img height="50" title="NPM" alt="NPM"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" />
-
-<img height="50" title="Yarn" alt="Yarn"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yarn/yarn-original.svg" />
-
-<img height="50" title="pnpm" alt="pnpm"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pnpm/pnpm-original.svg" />
-
-
-<!-- API -->
-
-<img height="50" title="Postman" alt="Postman"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
-
-<img height="50" title="Swagger" alt="Swagger"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" />
-
-
-<!-- CI/CD -->
-
-<img height="50" title="GitHub Actions" alt="GitHub Actions"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" />
-
-<img height="50" title="Jenkins" alt="Jenkins"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" />
-
-
-
+<img height="50" title="JUnit" alt="JUnit" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" />
+<img height="50" title="Maven" alt="Maven" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" />
+<img height="50" title="Gradle" alt="Gradle" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original.svg" /><!-- PHP -->
+<img height="50" title="Composer" alt="Composer" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/composer/composer-original.svg" /><!-- NODE / PACOTES -->
+<img height="50" title="NPM" alt="NPM" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" />
+<img height="50" title="Yarn" alt="Yarn" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yarn/yarn-original.svg" />
+<img height="50" title="pnpm" alt="pnpm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pnpm/pnpm-original.svg" /><!-- API -->
+<img height="50" title="Postman" alt="Postman" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
+<img height="50" title="Swagger" alt="Swagger" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" /><!-- CI/CD -->
+<img height="50" title="GitHub Actions" alt="GitHub Actions" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" />
+<img height="50" title="Jenkins" alt="Jenkins" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" />
 <img height="50" title="Windows" alt="Windows" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />
 <img height="50" title="Fedora" alt="Fedora" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fedora/fedora-original.svg" />
 <img height="50" title="Ubuntu" alt="Ubuntu" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" />
