@@ -102,6 +102,8 @@ Tenho interesse em **Engenharia de Software, Arquitetura de Software, Cloud Comp
 <div align="center">
 -->
 <img height="50" title="Git" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<img height="50" title="Git" alt="Git"  src="https://github.com/user-attachments/assets/2f410aa7-64d4-4a81-a789-b2f3a2e02223" />
+
 <img height="50" title="GitHub" alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 <img height="50" title="GitLab" alt="GitLab" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" />
 <img height="50" title="Gitea" alt="Gitea" src="https://about.gitea.com/gitea-text-dark.svg" />
