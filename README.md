@@ -15,7 +15,37 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!-- 
 Sou **Desenvolvedor Full Stack**. Atualmente, trabalho com desenvolvimento em várias linguagens de programação, incluindo TypeScript, PHP, JavaScript, Python, Dart, Banco de Dados SQL e alguns frameworks , além de ter conhecimentos em Java, C#, Linux, Segurança da informação, AWS, GCP, Azure e Pacote Office avançado . Atualmente, estou estudando Flutter e cursando o último semestre de Sistemas da Informação na instituição Faculdade das Américas.
+-->
+
+# Olá, eu sou Vitor Lima! 👋
+
+## Desenvolvedor Full Stack | Professor de Tecnologia 👨‍💻
+
+Sou **Desenvolvedor Full Stack**, com experiência no desenvolvimento de aplicações **Front-End, Back-End, Mobile e integração com bancos de dados**.
+
+Atuo com diferentes linguagens, frameworks e tecnologias, buscando desenvolver soluções eficientes, organizadas, escaláveis e seguindo boas práticas de desenvolvimento de software.
+
+### 💻 Tecnologias e conhecimentos
+
+* **Linguagens:** TypeScript, JavaScript, Python, PHP, Dart, Java e C#
+* **Front-End:** Angular e React
+* **Back-End:** Node.js, Express e NestJS
+* **Mobile:** Flutter
+* **Banco de Dados:** SQL, PostgreSQL, MySQL/MariaDB e SQL Server
+* **Cloud Computing:** AWS, Google Cloud Platform (GCP) e Microsoft Azure
+* **Sistemas Operacionais:** Linux e Windows
+* **Outros conhecimentos:** Git, GitHub, APIs REST, Segurança da Informação e Pacote Office Avançado
+
+### 🚀 Sobre mim
+
+Tenho interesse constante em **Engenharia de Software, Desenvolvimento Full Stack, Cloud Computing e novas tecnologias**. Além da atuação como desenvolvedor, também trabalho com **educação e ensino de tecnologia**, compartilhando conhecimentos relacionados à programação e desenvolvimento de software.
+
+## Minhas Skills 🧑‍💻
+
+<!-- Aqui você pode adicionar os ícones/badges das suas tecnologias -->
+
 
   ## Minhas skills  🧑‍💻👨‍💻 
  
