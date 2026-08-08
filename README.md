@@ -24,57 +24,35 @@ Sou **Desenvolvedor Full Stack**. Atualmente, trabalho com desenvolvimento em v�
 ## Desenvolvedor Full Stack | Professor de Tecnologia 👨‍💻
 
 Sou **Desenvolvedor Full Stack**, com experiência no desenvolvimento de aplicações **Front-End, Back-End e Mobile**, além de integração com **bancos de dados, APIs e serviços em nuvem**.
-
 Atuo com diferentes linguagens, frameworks e tecnologias, buscando desenvolver soluções **eficientes, escaláveis, seguras e bem estruturadas**, aplicando boas práticas de **Engenharia de Software, arquitetura de sistemas, versionamento e qualidade de código**.
 
 ### 💻 Tecnologias e Conhecimentos
 
 * **Linguagens:** TypeScript, JavaScript, Python, PHP, Dart, Java, C# e SQL
-
 * **Front-End:** Angular, React.js, Vue.js, Next.js, HTML5, CSS3, Tailwind CSS e Bootstrap
-
 * **Back-End:** Node.js, Express.js, NestJS, FastAPI, Flask, Django, Spring Boot, Laravel, CodeIgniter e ASP.NET Core
-
 * **Desenvolvimento Mobile:** Flutter, React Native e Dart
-
 * **Bancos de Dados Relacionais:** PostgreSQL, MySQL, MariaDB, SQL Server e SQLite
-
 * **Bancos de Dados NoSQL e Cache:** MongoDB, Firebase e Redis
-
 * **ORMs e Persistência:** Prisma, TypeORM, Sequelize, Entity Framework e Hibernate
-
 * **APIs e Integrações:** REST APIs, Swagger/OpenAPI, JSON, WebSockets, JWT e integração com serviços externos
-
 * **Cloud Computing:** Amazon Web Services (AWS), Microsoft Azure e Google Cloud Platform (GCP)
-
 * **DevOps e Containers:** Docker, Docker Compose, CI/CD e GitHub Actions
-
 * **Versionamento e Repositórios:** Git, GitHub, GitLab e Gitea
-
 * **Testes e Automação:** Selenium, Jest, JUnit, Pytest, PHPUnit, testes unitários, testes de integração e testes de APIs
-
 * **Business Intelligence e Dados:** Power BI, modelagem de dados, criação de dashboards, análise e visualização de dados
-
 * **Arquitetura e Boas Práticas:** MVC, Clean Architecture, SOLID, Design Patterns, arquitetura em camadas e princípios de código limpo
-
 * **Segurança:** Segurança da Informação, autenticação, autorização, JWT, controle de acesso e boas práticas de segurança para aplicações Web e APIs
-
 * **Sistemas Operacionais:** Linux e Windows
-
 * **Ferramentas de Desenvolvimento:** Visual Studio Code, Visual Studio, IntelliJ IDEA, PyCharm, PhpStorm, Android Studio, Postman, Insomnia, DBeaver e HeidiSQL
-
 * **Metodologias e Gestão:** Scrum, Kanban, metodologias ágeis, documentação técnica e versionamento de software
-
 * **Produtividade e Análise:** Pacote Office Avançado, Excel Avançado e Power BI
 
 ### 🚀 Sobre mim
 
 Tenho interesse constante em **Engenharia de Software, Desenvolvimento Full Stack, Cloud Computing, Arquitetura de Software, Inteligência Artificial e novas tecnologias**.
-
 Além da atuação como desenvolvedor, também trabalho com **educação e ensino de tecnologia**, compartilhando conhecimentos relacionados à programação, desenvolvimento de software, bancos de dados e boas práticas de Engenharia de Software.
-
 Busco constantemente aprimorar meus conhecimentos, explorar novas tecnologias e desenvolver soluções que unam **qualidade de código, desempenho, segurança e boas práticas de desenvolvimento**.
-
 
 ### 🚀 Sobre mim
 
