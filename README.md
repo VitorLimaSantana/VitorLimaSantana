@@ -27,16 +27,26 @@ Sou **Desenvolvedor Full Stack**, com experiência no desenvolvimento de aplica�
 
 Atuo com diferentes linguagens, frameworks e tecnologias, buscando desenvolver soluções eficientes, organizadas, escaláveis e seguindo boas práticas de desenvolvimento de software.
 
-### 💻 Tecnologias e conhecimentos
+### 💻 Tecnologias e Conhecimentos
 
-* **Linguagens:** TypeScript, JavaScript, Python, PHP, Dart, Java e C#
-* **Front-End:** Angular e React
-* **Back-End:** Node.js, Express e NestJS
-* **Mobile:** Flutter
-* **Banco de Dados:** SQL, PostgreSQL, MySQL/MariaDB e SQL Server
-* **Cloud Computing:** AWS, Google Cloud Platform (GCP) e Microsoft Azure
+* **Linguagens:** TypeScript, JavaScript, Python, PHP, Dart, Java, C# e SQL
+* **Front-End:** Angular, React.js, Vue.js, Next.js, HTML5, CSS3, Tailwind CSS e Bootstrap
+* **Back-End:** Node.js, Express.js, NestJS, FastAPI, Flask, Django, Spring Boot, Laravel e ASP.NET Core
+* **Mobile:** Flutter, React Native e Dart
+* **Banco de Dados Relacionais:** PostgreSQL, MySQL, MariaDB, SQL Server e SQLite
+* **Banco de Dados NoSQL:** MongoDB, Firebase e Redis
+* **ORMs e Persistência:** Prisma, TypeORM, Sequelize, Entity Framework e Hibernate
+* **APIs e Integrações:** REST APIs, Swagger/OpenAPI, JSON, WebSockets e autenticação JWT
+* **Cloud Computing:** AWS, Microsoft Azure e Google Cloud Platform (GCP)
+* **DevOps e Containers:** Docker, Docker Compose, CI/CD e GitHub Actions
+* **Versionamento:** Git e GitHub
+* **Testes:** Jest, JUnit, Pytest, PHPUnit e testes de APIs
+* **Arquitetura e Boas Práticas:** MVC, Clean Architecture, SOLID, Design Patterns e arquitetura em camadas
 * **Sistemas Operacionais:** Linux e Windows
-* **Outros conhecimentos:** Git, GitHub, APIs REST, Segurança da Informação e Pacote Office Avançado
+* **Segurança:** Segurança da Informação, autenticação, autorização e boas práticas de segurança para aplicações Web
+* **Ferramentas:** Visual Studio Code, Visual Studio, IntelliJ IDEA, Postman, Insomnia, DBeaver e HeidiSQL
+* **Outros Conhecimentos:** Pacote Office Avançado, metodologias ágeis, Scrum e Kanban
+
 
 ### 🚀 Sobre mim
 
