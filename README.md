@@ -60,8 +60,6 @@ Tenho interesse em **Engenharia de Software, Arquitetura de Software, Cloud Comp
 
 </div>
 
-## 📫 Contato
-
 <div align="center">
 
 <a href="https://www.linkedin.com/in/vitor-lima-334b45114" target="_blank">
