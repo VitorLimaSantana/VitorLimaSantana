@@ -1,6 +1,6 @@
 # Olá, eu sou Vitor Lima! 👋
 
-## Desenvolvedor Full Stack | Professor de Tecnologia 👨‍💻
+## Desenvolvedor Full Stack | Professor de Tecnologia
 
 Sou **Desenvolvedor Full Stack**, atuando no desenvolvimento de soluções **Front-End, Back-End e Mobile**, integração de **APIs, bancos de dados e serviços em nuvem**.
 
@@ -12,7 +12,7 @@ Atuo também como **Professor de Tecnologia**, compartilhando conhecimentos em p
 
 Tenho interesse em **Engenharia de Software, Arquitetura de Software, Cloud Computing e Inteligência Artificial**.
 
-## 🛠️ Minhas Skills
+## Minhas Skills
 <!-- 
 ### Linguagens
 -->
@@ -122,8 +122,6 @@ Tenho interesse em **Engenharia de Software, Arquitetura de Software, Cloud Comp
 <img height="50" title="Android Studio" alt="Android Studio" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />
 
 </div>
-
-## 📫 Contato
 
 <div align="center">
 
