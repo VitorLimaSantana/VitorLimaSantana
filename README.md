@@ -133,12 +133,9 @@ Tenho interesse em **Engenharia de Software, Arquitetura de Software, Cloud Comp
 <img height="50" title="pnpm" alt="pnpm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pnpm/pnpm-original.svg" />
 <img height="50" title="Composer" alt="Composer" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/composer/composer-original.svg" />
 <img height="50" title="Maven" alt="Maven" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" />
-<img height="50" title="Gradle" alt="Gradle"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original.svg" />
-<img height="50" title="NuGet" alt="NuGet"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuget/nuget-original.svg" />
-<img height="50" title="Cargo" alt="Cargo"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" />
+<img height="50" title="Gradle" alt="Gradle" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original.svg" />
+<img height="50" title="NuGet" alt="NuGet" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuget/nuget-original.svg" />
+<img height="50" title="Cargo" alt="Cargo" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" />
 
 <!--
 
@@ -166,14 +163,12 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-origina
 
 <!-- AUTOMAÇÃO -->
 
-<img height="50" title="Selenium" alt="Selenium"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" />
+<img height="50" title="Selenium" alt="Selenium" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" />
 
 
 <!-- PYTHON -->
 
-<img height="50" title="Pytest" alt="Pytest"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg" />
+<img height="50" title="Pytest" alt="Pytest" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg" />
 
 
 <!-- JAVA / KOTLIN -->
